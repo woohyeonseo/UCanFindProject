@@ -1,0 +1,16 @@
+
+@charset "UTF-8";
+
+.sizess{
+	img: src;
+	size: 150px;
+	 width: 300px;
+	 height: 300px;
+}
+
+div.img{
+	background-image: url;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}

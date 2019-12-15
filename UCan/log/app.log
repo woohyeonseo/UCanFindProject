@@ -1,0 +1,3 @@
+ERROR: [2019 11월 05 16:55:31] com.you.can.LogTestBasic - oh, no!!
+WARN : [2019 11월 05 16:55:31] com.you.can.LogTestBasic - Watch Out2019,SON!
+INFO : [2019 11월 05 16:55:31] com.you.can.LogTestBasic - Hello,slf4j log!!
